@@ -1,0 +1,253 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-id="mjh-abc-vic" tvg-name="ABC TV" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="Freeview",ABC TV
+https://c.mjh.nz/abc-vic.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="2" tvg-id="mjh-al-jazeera" tvg-name="Al Jazeera" tvg-logo="https://i.mjh.nz/.images/al-jazeera.png" group-title="Freeview",Al Jazeera
+https://i.mjh.nz/.r/al-jazeera.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="3" tvg-id="mjh-bbc-news" tvg-name="BBC News" tvg-logo="https://i.mjh.nz/.images/bbc-news.png" group-title="Freeview",BBC News
+https://i.mjh.nz/.r/bbc-news.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="4" tvg-id="mjh-channel-9-vic" tvg-name="Channel 9" tvg-logo="https://imageresizer.static9.net.au/lx1XIWcrYZRtnfJOqvxNn9CshDI=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F09%2F630608%2F9nine-1.png" group-title="Freeview",Channel 9
+https://i.mjh.nz/.r/channel-9-vic.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="5" tvg-id="mjh-c31" tvg-name="Channel 31" tvg-logo="https://i.mjh.nz/.images/c31.png" group-title="Freeview",Channel 31
+https://i.mjh.nz/.r/c31.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="6" tvg-id="mjh-channel-news-asia" tvg-name="Channel News Asia (CNA)" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="Freeview",Channel News Asia (CNA)
+https://i.mjh.nz/.r/channel-news-asia.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="7" tvg-id="mjh-10shake-vic" tvg-name="Nickelodeon" tvg-logo="https://i.mjh.nz/.images/10-nickelodeon.png" group-title="Freeview",Nickelodeon
+https://i.mjh.nz/.r/10shake-vic.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="8" tvg-id="mjh-sbs-nitv" tvg-name="NITV" tvg-logo="https://i.mjh.nz/.images/sbs-nitv.png" group-title="Freeview",NITV
+https://i.mjh.nz/.r/sbs-nitv.m3u8|x-forwarded-for=110.33.122.75&user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="9" tvg-id="mjh-redbull-tv" tvg-name="Redbull TV" tvg-logo="https://i.mjh.nz/.images/redbull-tv.png" group-title="Freeview",Redbull TV
+https://i.mjh.nz/.r/redbull-tv.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="10" tvg-id="mjh-sbs" tvg-name="SBS" tvg-logo="https://i.mjh.nz/.images/sbs.png" group-title="Freeview",SBS
+https://i.mjh.nz/.r/sbs.m3u8|x-forwarded-for=110.33.122.75&user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="11" tvg-id="mjh-sbs-food" tvg-name="SBS Food" tvg-logo="https://i.mjh.nz/.images/sbs-food.png" group-title="Freeview",SBS Food
+https://i.mjh.nz/.r/sbs-food.m3u8|x-forwarded-for=110.33.122.75&user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="12" tvg-id="mjh-sbs-viceland" tvg-name="SBS VICELAND" tvg-logo="https://i.mjh.nz/.images/sbs-viceland.png" group-title="Freeview",SBS VICELAND
+https://i.mjh.nz/.r/sbs-viceland.m3u8|x-forwarded-for=110.33.122.75&user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="13" tvg-id="mjh-sbs-world-movies" tvg-name="SBS World Movies" tvg-logo="https://i.mjh.nz/.images/sbs-world-movies.png" group-title="Freeview",SBS World Movies
+https://i.mjh.nz/.r/sbs-world-movies.m3u8|x-forwarded-for=110.33.122.75&user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="14" tvg-id="mjh-sbs-world-watch" tvg-name="SBS World Watch" tvg-logo="https://i.mjh.nz/.images/sbs-world-watch.png" group-title="Freeview",SBS World Watch
+https://i.mjh.nz/.r/sbs-world-watch.m3u8|x-forwarded-for=110.33.122.75&user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="15" tvg-id="mjh-seven-mel" tvg-name="Channel 7" tvg-logo="https://i.mjh.nz/.images/seven-mel.png" group-title="Freeview",Channel 7
+https://i.mjh.nz/.r/seven-mel.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="16" tvg-id="mjh-sky-news-now" tvg-name="Sky News Now" tvg-logo="https://i.mjh.nz/.images/sky-news-now.png" group-title="Freeview",Sky News Now
+https://i.mjh.nz/.r/sky-news-now.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="17" tvg-id="mjh-sky-racing-1" tvg-name="Sky Racing #1" tvg-logo="https://i.mjh.nz/.images/sky-racing-1.png" group-title="Freeview",Sky Racing #1
+https://i.mjh.nz/.r/sky-racing-1.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="18" tvg-id="mjh-sky-racing-2" tvg-name="Sky Racing #2" tvg-logo="https://i.mjh.nz/.images/sky-racing-2.png" group-title="Freeview",Sky Racing #2
+https://i.mjh.nz/.r/sky-racing-2.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="19" tvg-id="mjh-3aw-melbourne" tvg-name="3AW Melbourne" tvg-logo="https://i.mjh.nz/.images/3aw-melbourne.png" group-title="Freeview",3AW Melbourne
+https://i.mjh.nz/.r/3aw-melbourne.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="20" tvg-id="mjh-7flix-mel" tvg-name="7flix" tvg-logo="https://i.mjh.nz/.images/7flix-mel.png" group-title="Freeview",7flix
+https://i.mjh.nz/.r/7flix-mel.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="21" tvg-id="mjh-7mate-mel" tvg-name="7mate" tvg-logo="https://i.mjh.nz/.images/7mate-mel.png" group-title="Freeview",7mate
+https://i.mjh.nz/.r/7mate-mel.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="22" tvg-id="mjh-7two-mel" tvg-name="7two" tvg-logo="https://i.mjh.nz/.images/7two-mel.png" group-title="Freeview",7two
+https://i.mjh.nz/.r/7two-mel.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="23" tvg-id="mjh-gem-vic" tvg-name="9Gem" tvg-logo="https://imageresizer.static9.net.au/d00389KKc5T4o5isRaDE9Pl9DWk=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F08%2F620929%2F9gem-1.png" group-title="Freeview",9Gem
+https://i.mjh.nz/.r/gem-vic.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="24" tvg-id="mjh-go-vic" tvg-name="9Go!" tvg-logo="https://imageresizer.static9.net.au/fcTwzkAJT4q81emfp2kYkgoxlDA=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574470%2F9go.png" group-title="Freeview",9Go!
+https://i.mjh.nz/.r/go-vic.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="25" tvg-id="mjh-life-vic" tvg-name="9Life" tvg-logo="https://imageresizer.static9.net.au/wMK3kBDybfEoN2iqyDDflC91D1U=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574472%2F9life.png" group-title="Freeview",9Life
+https://i.mjh.nz/.r/life-vic.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="26" tvg-id="mjh-rush-vic" tvg-name="9Rush" tvg-logo="https://imageresizer.static9.net.au/5B2ZDlD8Ji6dCecGQEfwy2U2m4Y=/768x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F574473%2F9rush.png" group-title="Freeview",9Rush
+https://i.mjh.nz/.r/rush-vic.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="27" tvg-id="mjh-10-vic" tvg-name="Channel 10" tvg-logo="https://i.mjh.nz/.images/10-nsw.png" group-title="Freeview",Channel 10
+https://i.mjh.nz/.r/10-vic.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="28" tvg-id="mjh-10bold-vic" tvg-name="10 BOLD" tvg-logo="https://i.mjh.nz/.images/10bold-nsw.png" group-title="Freeview",10 BOLD
+https://i.mjh.nz/.r/10bold-vic.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="29" tvg-id="mjh-10peach-vic" tvg-name="10 Peach" tvg-logo="https://i.mjh.nz/.images/10peach-nsw.png" group-title="Freeview",10 Peach
+https://i.mjh.nz/.r/10peach-vic.m3u8|user-agent=otg/1.5.1%20%28AppleTv%20Apple%20TV%204%3B%20tvOS16.0%3B%20appletv.client%29%20libcurl/7.58.0%20OpenSSL/1.0.2o%20zlib/1.2.11%20clib/1.8.56&seekable=0&referer=%20
+#EXTINF:-1 tvg-chno="30" tvg-id="FoxCricket.alt.au" tvg-name="FOX CRICKET" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="TV",FOX CRICKET
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNjkvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="31" tvg-id="FoxCricket.alt.au" tvg-name="FOX CRICKET" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-cricket.png" group-title="TV",FOX CRICKET
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium369%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="32" tvg-id="FOX.Soccer.Plus.HD.us" tvg-name="FOX SOCCER PLUS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-soccer-plus.png" group-title="TV",FOX SOCCER PLUS
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium756%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="33" tvg-id="FOX.Soccer.Plus.HD.us" tvg-name="FOX SOCCER PLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="TV",FOX SOCCER PLUS
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/265.m3u8
+#EXTINF:-1 tvg-chno="34" tvg-id="FOX.Soccer.Plus.HD.us" tvg-name="FOX SOCCER PLUS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" group-title="TV",FOX SOCCER PLUS
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NTYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="35" tvg-id="FOX.Soccer.Plus.HD.us" tvg-name="FOX SOCCER PLUS" tvg-logo="http://lonewolftvpr.com/logos/foxsoccer.png" group-title="TV",FOX SOCCER PLUS
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/265
+#EXTINF:-1 tvg-chno="36" tvg-id="Fox.Sports.1.us1" tvg-name="FOX SPORTS" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20241105T024305SQUARE.png" group-title="TV",FOX SPORTS
+https://jmp2.uk/sam-US2700001QY.m3u8
+#EXTINF:-1 tvg-chno="37" tvg-id="Fox.Sports.1.us1" tvg-name="FOX SPORTS" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6bea985-9665-4dca-8ce4-2a8f79c7863c/FXSportsWhite.png" group-title="TV",FOX SPORTS
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+#EXTINF:-1 tvg-chno="38" tvg-id="Fox.Sports.1.us1" tvg-name="FOX SPORTS" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" group-title="TV",FOX SPORTS
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+#EXTINF:-1 tvg-chno="39" tvg-id="Fox.Sports.1.us1" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="TV",FOX SPORTS 1
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-chno="40" tvg-id="Fox.Sports.1.us1" tvg-name="FOX SPORTS 1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-1-usa.png" group-title="TV",FOX SPORTS 1
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium39%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="41" tvg-id="Fox.Sports.1.us1" tvg-name="FOX SPORTS 1 (HD)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="TV",FOX SPORTS 1 (HD)
+https://v14.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=ShZ05DioLr0EdK-KDYQi-A&expires=1748694636&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+#EXTINF:-1 tvg-chno="42" tvg-id="Fox.Sports.1.us1" tvg-name="FOX SPORTS 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="TV",FOX SPORTS 1
+https://v14.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8?token=Pw74h_ighW0TBEnacCAfAA&expires=1748694631&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+#EXTINF:-1 tvg-chno="43" tvg-id="Fox.Sports.2.us1" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" group-title="TV",FOX SPORTS 2
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTgvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="44" tvg-id="Fox.Sports.2.us1" tvg-name="FOX SPORTS 2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-2-usa.png" group-title="TV",FOX SPORTS 2
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium758%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="45" tvg-id="Fox.Sports.2.us1" tvg-name="FOX SPORTS 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="TV",FOX SPORTS 2
+https://v15.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8?token=qKfw-plN8-8EPoe7lK7LxQ&expires=1748694641&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+#EXTINF:-1 tvg-chno="46" tvg-id="Fox.Sports.2.us1" tvg-name="FOX SPORTS 2 (HD)" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="TV",FOX SPORTS 2 (HD)
+https://v18.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=nTlxElihVuHLzlrlUHFaFQ&expires=1748694646&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+#EXTINF:-1 tvg-chno="47" tvg-id="FoxCricket.alt.au" tvg-name="FOX SPORTS 501 (HD)" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="TV",FOX SPORTS 501 (HD)
+https://a1xs.vip/700001
+#EXTINF:-1 tvg-chno="48" tvg-id="FoxLeague.au1" tvg-name="FOX SPORTS 502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-league-502-au.png?raw=true" group-title="TV",FOX SPORTS 502
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjAvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="49" tvg-id="FoxLeague.au1" tvg-name="FOX SPORTS 502" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-502.png" group-title="TV",FOX SPORTS 502
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium820%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="50" tvg-id="FoxLeague.au1" tvg-name="FOX SPORTS 502 (HD)" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="TV",FOX SPORTS 502 (HD)
+https://a1xs.vip/700002
+#EXTINF:-1 tvg-chno="51" tvg-id="FoxSports503.au1" tvg-name="FOX SPORTS 503" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-503-au.png?raw=true" group-title="TV",FOX SPORTS 503
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="52" tvg-id="FoxSports503.au1" tvg-name="FOX SPORTS 503" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-503.png" group-title="TV",FOX SPORTS 503
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium821%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="53" tvg-id="FoxSports503.au1" tvg-name="FOX SPORTS 503 (HD)" tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="TV",FOX SPORTS 503 (HD)
+https://a1xs.vip/700003
+#EXTINF:-1 tvg-chno="54" tvg-id="FoxFooty.au1" tvg-name="FOX SPORTS 504" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-footy-504-au.png?raw=true" group-title="TV",FOX SPORTS 504
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="55" tvg-id="FoxFooty.au1" tvg-name="FOX SPORTS 504" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-504.png" group-title="TV",FOX SPORTS 504
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium822%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="56" tvg-id="FoxFooty.au1" tvg-name="FOX SPORTS 504 (HD)" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="TV",FOX SPORTS 504 (HD)
+https://a1xs.vip/700004
+#EXTINF:-1 tvg-chno="57" tvg-id="FoxSports505.au1" tvg-name="FOX SPORTS 505" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" group-title="TV",FOX SPORTS 505
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="58" tvg-id="FoxSports505.au1" tvg-name="FOX SPORTS 505" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-505.png" group-title="TV",FOX SPORTS 505
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium823%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="59" tvg-id="FoxSports505.au1" tvg-name="FOX SPORTS 505 (HD)" tvg-logo="https://i.imgur.com/angJkah.png" group-title="TV",FOX SPORTS 505 (HD)
+https://a1xs.vip/700005
+#EXTINF:-1 tvg-chno="60" tvg-id="FoxSports506.au1" tvg-name="FOX SPORTS 506" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-506-au.png" group-title="TV",FOX SPORTS 506
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="61" tvg-id="FoxSports506.au1" tvg-name="FOX SPORTS 506" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-506.png" group-title="TV",FOX SPORTS 506
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium824%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="62" tvg-id="FoxSports506.au1" tvg-name="FOX SPORTS 506 (HD)" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="TV",FOX SPORTS 506 (HD)
+https://a1xs.vip/700006
+#EXTINF:-1 tvg-chno="63" tvg-id="FOX.(WNYW).New.York,.NY.us1" tvg-name="FOX SPORTS 507" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-au.png?raw=true" group-title="TV",FOX SPORTS 507
+http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/280194.ts
+#EXTINF:-1 tvg-chno="64" tvg-id="FOX.(WNYW).New.York,.NY.us1" tvg-name="FOX SPORTS 507" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" group-title="TV",FOX SPORTS 507
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="65" tvg-id="FOX.(WNYW).New.York,.NY.us1" tvg-name="FOX SPORTS 507" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-507.png" group-title="TV",FOX SPORTS 507
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium825%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="66" tvg-id="FOX.(WNYW).New.York,.NY.us1" tvg-name="FOX SPORTS 507 (HD)" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="TV",FOX SPORTS 507 (HD)
+https://a1xs.vip/700007
+#EXTINF:-1 tvg-chno="67" tvg-id="SkySp.ActionHD.uk" tvg-name="SKY SPORTS ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png" group-title="TV",SKY SPORTS ACTION
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="68" tvg-id="SkySp.ActionHD.uk" tvg-name="SKY SPORTS ACTION" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-action-uk.png" group-title="TV",SKY SPORTS ACTION
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium37%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="69" tvg-id="SkySp.ActionHD.uk" tvg-name="SKY SPORTS ACTION" tvg-logo="https://pixvid.org/images/2025/01/16/sky-action.png" group-title="TV",SKY SPORTS ACTION
+https://digitalgirl.timstreams.xyz/skysportsaction//index.m3u8
+#EXTINF:-1 tvg-chno="70" tvg-id="SkySp.ActionHD.uk" tvg-name="SKY SPORTS ACTION (HD)" tvg-logo="https://i.ibb.co/VqtQrDq/sky-action.png" group-title="TV",SKY SPORTS ACTION (HD)
+https://a1xs.vip/2000011
+#EXTINF:-1 tvg-chno="71" tvg-id="SkySp.Cricket.uk1" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-cricket-uk.png" group-title="TV",SKY SPORTS CRICKET
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium65%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="72" tvg-id="SkySp.Cricket.uk1" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" group-title="TV",SKY SPORTS CRICKET
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjUvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="73" tvg-id="SkySp.Cricket.uk1" tvg-name="SKY SPORTS CRICKET" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="TV",SKY SPORTS CRICKET
+http://digitalgirl.timstreams.xyz/skysportscricket/index.m3u8
+#EXTINF:-1 tvg-chno="74" tvg-id="SkySp.Cricket.uk1" tvg-name="SKY SPORTS CRICKET (HD)" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" group-title="TV",SKY SPORTS CRICKET (HD)
+https://a1xs.vip/2000006
+#EXTINF:-1 tvg-chno="75" tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-f1-uk.png" group-title="TV",SKY SPORTS F1
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW02MC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-chno="76" tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-f1-uk.png" group-title="TV",SKY SPORTS F1
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium60%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="77" tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="TV",SKY SPORTS F1
+http://supersonictv.live:8080/live/Wellshouse/@A1B2C3D4/78149.ts
+#EXTINF:-1 tvg-chno="78" tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 (HD)" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="TV",SKY SPORTS F1 (HD)
+https://a1xs.vip/2000005
+#EXTINF:-1 tvg-chno="79" tvg-id="SkySp.F1.HD.uk" tvg-name="SKY SPORTS F1 UHD" tvg-logo="https://i.ibb.co/swp9ncv/Sky-f1-uhd.png" group-title="TV",SKY SPORTS F1 UHD
+https://a1xs.vip/2000016
+#EXTINF:-1 tvg-chno="80" tvg-id="Sky.Sports.Football.HD.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="TV",SKY SPORTS FOOTBALL
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNS9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-chno="81" tvg-id="Sky.Sports.Football.HD.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-football-uk.png" group-title="TV",SKY SPORTS FOOTBALL
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium35%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="82" tvg-id="Sky.Sports.Football.HD.uk" tvg-name="SKY SPORTS FOOTBALL" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="TV",SKY SPORTS FOOTBALL
+https://digitalgirl.timstreams.xyz/skysportsfootball//index.m3u8
+#EXTINF:-1 tvg-chno="83" tvg-id="Sky.Sports.Football.HD.uk" tvg-name="SKY SPORTS FOOTBALL (HD)" tvg-logo="https://i.ibb.co/WcCrBqx/sky-football.png" group-title="TV",SKY SPORTS FOOTBALL (HD)
+https://a1xs.vip/2000003
+#EXTINF:-1 tvg-chno="84" tvg-id="SkySp.Golf.HD.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" group-title="TV",SKY SPORTS GOLF
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW03MC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-chno="85" tvg-id="SkySp.Golf.HD.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-golf-uk.png" group-title="TV",SKY SPORTS GOLF
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium70%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="86" tvg-id="SkySp.Golf.HD.uk" tvg-name="SKY SPORTS GOLF" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="TV",SKY SPORTS GOLF
+https://digitalgirl.timstreams.xyz/skysportsgolf//index.m3u8
+#EXTINF:-1 tvg-chno="87" tvg-id="SkySp.Golf.HD.uk" tvg-name="SKY SPORTS GOLF (HD)" tvg-logo="https://i.ibb.co/QvhY4tX/sky-golf.png" group-title="TV",SKY SPORTS GOLF (HD)
+https://a1xs.vip/2000009
+#EXTINF:-1 tvg-chno="88" tvg-id="SkySpMainEvHD.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-main-event-uk.png" group-title="TV",SKY SPORTS MAIN EVENT
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium38%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="89" tvg-id="SkySpMainEvHD.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-sports-main-event-hd-uk.png" group-title="TV",SKY SPORTS MAIN EVENT
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOC9tb25vLm0zdTg=.m3u8
+#EXTINF:-1 tvg-chno="90" tvg-id="SkySpMainEvHD.uk" tvg-name="SKY SPORTS MAIN EVENT" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="TV",SKY SPORTS MAIN EVENT
+https://digitalgirl.timstreams.xyz/skysportsmainevent//index.m3u8
+#EXTINF:-1 tvg-chno="91" tvg-id="SkySpMainEvHD.uk" tvg-name="SKY SPORTS MAIN EVENT (HD)" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" group-title="TV",SKY SPORTS MAIN EVENT (HD)
+https://a1xs.vip/2000001
+#EXTINF:-1 tvg-chno="92" tvg-id="SkySpMainEvHD.uk" tvg-name="SKY SPORTS MAIN EVENT UHD" tvg-logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png" group-title="TV",SKY SPORTS MAIN EVENT UHD
+https://a1xs.vip/2000015
+#EXTINF:-1 tvg-chno="93" tvg-id="Sky.Mix.HD.uk" tvg-name="SKY SPORTS MIX" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-mix-uk.png" group-title="TV",SKY SPORTS MIX
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW01NTcvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="94" tvg-id="Sky.Mix.HD.uk" tvg-name="SKY SPORTS MIX" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-mix-uk.png" group-title="TV",SKY SPORTS MIX
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium449%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="95" tvg-id="Sky.Mix.HD.uk" tvg-name="SKY SPORTS MIX" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="TV",SKY SPORTS MIX
+https://digitalgirl.timstreams.xyz/skysportsmix//index.m3u8
+#EXTINF:-1 tvg-chno="96" tvg-id="Sky.Mix.HD.uk" tvg-name="SKY SPORTS MIX (HD)" tvg-logo="https://i.ibb.co/7kYj5gc/sky-mix.png" group-title="TV",SKY SPORTS MIX (HD)
+https://a1xs.vip/2000008
+#EXTINF:-1 tvg-chno="97" tvg-id="SkySp.News.HD.uk1" tvg-name="SKY SPORTS NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-news-uk.png" group-title="TV",SKY SPORTS NEWS
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW0zNjYvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="98" tvg-id="SkySp.News.HD.uk1" tvg-name="SKY SPORTS NEWS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-news-uk.png" group-title="TV",SKY SPORTS NEWS
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium366%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="99" tvg-id="SkySp.News.HD.uk1" tvg-name="SKY SPORTS NEWS" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="TV",SKY SPORTS NEWS
+https://digitalgirl.timstreams.xyz/skysportsnews//index.m3u8
+#EXTINF:-1 tvg-chno="100" tvg-id="SkySp.News.HD.uk1" tvg-name="SKY SPORTS NEWS (HD)" tvg-logo="https://i.ibb.co/7WMDvDP/sky-news.png" group-title="TV",SKY SPORTS NEWS (HD)
+https://a1xs.vip/2000004
+#EXTINF:-1 tvg-chno="101" tvg-id="SkySp.PL.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-premier-league-uk.png" group-title="TV",SKY SPORTS PREMIER LEAGUE
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium130%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="102" tvg-id="SkySp.PL.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-uk.png?raw=true" group-title="TV",SKY SPORTS PREMIER LEAGUE
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtMTMwL21vbm8ubTN1OA==.m3u8
+#EXTINF:-1 tvg-chno="103" tvg-id="SkySp.PL.uk" tvg-name="SKY SPORTS PREMIER LEAGUE" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="TV",SKY SPORTS PREMIER LEAGUE
+https://digitalgirl.timstreams.xyz/skysportsepl//index.m3u8
+#EXTINF:-1 tvg-chno="104" tvg-id="SkySp.PL.uk" tvg-name="SKY SPORTS PREMIER LEAGUE (HD)" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="TV",SKY SPORTS PREMIER LEAGUE (HD)
+https://a1xs.vip/2000002
+#EXTINF:-1 tvg-chno="105" tvg-id="FOX.(WNYW).New.York,.NY.us1" tvg-name="SKY SPORTS TENNIS" tvg-logo="https://i.imgur.com/ZNUDU1r.png" group-title="TV",SKY SPORTS TENNIS
+https://a1xs.vip/2000013
+#EXTINF:-1 tvg-chno="106" tvg-id="FOX.(WNYW).New.York,.NY.us1" tvg-name="SKY SPORTS TENNIS" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-tennis-uk.png" group-title="TV",SKY SPORTS TENNIS
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium46%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="107" tvg-id="FOX.(WNYW).New.York,.NY.us1" tvg-name="SKY SPORTS TENNIS" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sports_Tennis.png" group-title="TV",SKY SPORTS TENNIS
+https://digitalgirl.timstreams.xyz/skysportstennis//index.m3u8
+#EXTINF:-1 tvg-chno="108" tvg-id="FOX.(WNYW).New.York,.NY.us1" tvg-name="SKY SPORTS+" tvg-logo="https://pixvid.org/images/2025/01/21/Sky_Sportsplus.png" group-title="TV",SKY SPORTS+
+https://digitalgirl.timstreams.xyz/skysportsplus//index.m3u8
+#EXTINF:-1 tvg-chno="109" tvg-id="FOX.(WNYW).New.York,.NY.us1" tvg-name="SKY SPORTS+ (HD)" tvg-logo="https://i.ibb.co/ccNV9ppd/Sky-Sportsplus.png" group-title="TV",SKY SPORTS+ (HD)
+https://a1xs.vip/2000012
+#EXTINF:-1 tvg-chno="110" tvg-id="TNT.Sports.1.HD.uk1" tvg-name="TNT SPORTS 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" group-title="TV",TNT SPORTS 1
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzEvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="111" tvg-id="TNT.Sports.1.HD.uk1" tvg-name="TNT SPORTS 1" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-1-uk.png" group-title="TV",TNT SPORTS 1
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium31%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="112" tvg-id="TNT.Sports.1.HD.uk1" tvg-name="TNT SPORTS 1" tvg-logo="https://i.ibb.co/zJR49VW/TNT-Sports-1.png" group-title="TV",TNT SPORTS 1
+https://digitalgirl.timstreams.xyz/tnt1gb//index.m3u8
+#EXTINF:-1 tvg-chno="113" tvg-id="TNT.Sports.1.HD.uk1" tvg-name="TNT SPORTS 1 (HD)" tvg-logo="https://i.imgur.com/1EYnddH.png" group-title="TV",TNT SPORTS 1 (HD)
+https://a1xs.vip/2000021
+#EXTINF:-1 tvg-chno="114" tvg-id="TNT.Sports.2.HD.uk1" tvg-name="TNT SPORTS 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" group-title="TV",TNT SPORTS 2
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzIvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="115" tvg-id="TNT.Sports.2.HD.uk1" tvg-name="TNT SPORTS 2" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-2-uk.png" group-title="TV",TNT SPORTS 2
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium32%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="116" tvg-id="TNT.Sports.2.HD.uk1" tvg-name="TNT SPORTS 2" tvg-logo="https://i.ibb.co/42MrDP7/TNT-Sports-2.png" group-title="TV",TNT SPORTS 2
+https://digitalgirl.timstreams.xyz/tnt2gb//index.m3u8
+#EXTINF:-1 tvg-chno="117" tvg-id="TNT.Sports.2.HD.uk1" tvg-name="TNT SPORTS 2 (HD)" tvg-logo="https://i.imgur.com/YtGYRIB.png" group-title="TV",TNT SPORTS 2 (HD)
+https://a1xs.vip/2000022
+#EXTINF:-1 tvg-chno="118" tvg-id="TNT.Sports.3.HD.uk1" tvg-name="TNT SPORTS 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" group-title="TV",TNT SPORTS 3
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzMvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="119" tvg-id="TNT.Sports.3.HD.uk1" tvg-name="TNT SPORTS 3" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-3-uk.png" group-title="TV",TNT SPORTS 3
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium33%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="120" tvg-id="TNT.Sports.3.HD.uk1" tvg-name="TNT SPORTS 3" tvg-logo="https://i.ibb.co/vvFPJw0/TNT-Sports-3.png" group-title="TV",TNT SPORTS 3
+https://digitalgirl.timstreams.xyz/tnt3gb//index.m3u8
+#EXTINF:-1 tvg-chno="121" tvg-id="TNT.Sports.3.HD.uk1" tvg-name="TNT SPORTS 3 (HD)" tvg-logo="https://i.imgur.com/z1d9M65.png" group-title="TV",TNT SPORTS 3 (HD)
+https://a1xs.vip/2000023
+#EXTINF:-1 tvg-chno="122" tvg-id="TNT.Sports.4.HD.uk1" tvg-name="TNT SPORTS 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" group-title="TV",TNT SPORTS 4
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzQvbW9uby5tM3U4.m3u8
+#EXTINF:-1 tvg-chno="123" tvg-id="TNT.Sports.4.HD.uk1" tvg-name="TNT SPORTS 4" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-4-uk.png" group-title="TV",TNT SPORTS 4
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium34%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+#EXTINF:-1 tvg-chno="124" tvg-id="TNT.Sports.4.HD.uk1" tvg-name="TNT SPORTS 4" tvg-logo="https://i.ibb.co/Fnbw8VV/TNT-Sports-4.png" group-title="TV",TNT SPORTS 4
+https://digitalgirl.timstreams.xyz/tnt4gb//index.m3u8
+#EXTINF:-1 tvg-chno="125" tvg-id="TNT.Sports.4.HD.uk1" tvg-name="TNT SPORTS 4 (HD)" tvg-logo="https://i.imgur.com/K92UuvG.png" group-title="TV",TNT SPORTS 4 (HD)
+https://a1xs.vip/2000024
+#EXTINF:-1 tvg-chno="126" tvg-id="FOX.(WNYW).New.York,.NY.us1" tvg-name="TNT SPORTS ULTIMATE UHD" tvg-logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png" group-title="TV",TNT SPORTS ULTIMATE UHD
+https://a1xs.vip/2000031
