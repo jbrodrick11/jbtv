@@ -1,3 +1,24 @@
+#EXTINF:-1  tvg-name="Fox Sports 501 FHD" tvg-id="FoxCricket.au" tvg-logo="https://i.imgur.com/59gCbVd.png" group-title="TV" radio="false",Fox Sports 501 FHD
+https://a1xs.vip/700001
+
+#EXTINF:-1  tvg-name="Fox Sports 502 FHD" tvg-id="FoxLeague.au" tvg-logo="https://i.imgur.com/idKGREY.png" group-title="TV" radio="false",Fox Sports 502 FHD
+https://a1xs.vip/700002
+
+#EXTINF:-1  tvg-name="Fox Sports 503 FHD" tvg-id="FoxSports503.au" tvg-logo="https://i.imgur.com/5PUsSnn.png" group-title="TV" radio="false",Fox Sports 503 FHD
+https://a1xs.vip/700003
+
+#EXTINF:-1  tvg-name="Fox Sports 504 FHD" tvg-id="FoxFooty.au" tvg-logo="https://i.imgur.com/aEoU7gf.png" group-title="TV" radio="false",Fox Sports 504 FHD
+https://a1xs.vip/700004
+
+#EXTINF:-1  tvg-name="Fox Sports 505 FHD" tvg-id="FoxSports505.au" tvg-logo="https://i.imgur.com/angJkah.png" group-title="TV" radio="false",Fox Sports 505 FHD
+https://a1xs.vip/700005
+
+#EXTINF:-1  tvg-name="Fox Sports 506 FHD" tvg-id="FoxSports506.au" tvg-logo="https://i.imgur.com/eA1hiR0.png" group-title="TV" radio="false",Fox Sports 506 FHD
+https://a1xs.vip/700006
+
+#EXTINF:-1  tvg-name="Fox Sports 507 FHD" tvg-id="FoxSportsMore.au" tvg-logo="https://i.imgur.com/kGm7Ts1.png" group-title="TV" radio="false",Fox Sports 507 FHD
+https://a1xs.vip/700007
+
 #EXTINF:-1  tvg-name="UK: Sky Sports F1 UHD" tvg-id="SkySp.F1.uk" tvg-logo="https://i.ibb.co/swp9ncv/Sky-f1-uhd.png" group-title="TV" radio="false",UK: Sky Sports F1 UHD
 https://a1xs.vip/2000016
 
@@ -55,6 +76,39 @@ https://a1xs.vip/2000023
 #EXTINF:-1  tvg-name="TNT Sports 4 FHD" tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://i.imgur.com/K92UuvG.png" group-title="TV" radio="false",TNT Sports 4 FHD
 https://a1xs.vip/2000024
 
+#EXTINF:-1  tvg-name="FOX" tvg-id="FOX.(KSWB).San.Diego,.CA.us" tvg-logo="https://i.imgur.com/atBCo5C.png" group-title="TV" radio="false",FOX
+https://a1xs.vip/300014
+
+#EXTINF:-1  tvg-name="Fox News" tvg-id="Fox.News.us" tvg-logo="https://i.imgur.com/m22eA9B.png" group-title="TV" radio="false",Fox News
+https://a1xs.vip/300011
+
+#EXTINF:-1  tvg-name="FS1 HD" tvg-id="Fox.Sports.1.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" group-title="TV" radio="false",FS1 HD
+https://a1xs.vip/40000021
+
+#EXTINF:-1  tvg-name="FS2 HD" tvg-id="Fox.Sports.2.us" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" group-title="TV" radio="false",FS2 HD
+https://a1xs.vip/40000022
+
+#EXTINF:-1  tvg-id="FoxCricket.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-cricket.png" group-title="TV",Fox Cricket
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium369%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="FoxLeague.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-502.png" group-title="TV",FOX Sports 502 AU
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium820%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="FoxSports503.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-503.png" group-title="TV",FOX Sports 503 AU
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium821%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="FoxFooty.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-504.png" group-title="TV",FOX Sports 504 AU
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium822%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-505.png" group-title="TV",FOX Sports 505 AU
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium823%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="FoxSports506.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-506.png" group-title="TV",FOX Sports 506 AU
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium824%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="FoxSportsMore.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-507.png" group-title="TV",FOX Sports 507 AU
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium825%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
 #EXTINF:-1  tvg-id="SkySp.Action.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-action-uk.png" group-title="TV",Sky Sports Action UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium37%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
 
@@ -103,6 +157,60 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpr
 #EXTINF:-1  tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/tnt-sports-4-uk.png" group-title="TV",TNT Sports 4 UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium34%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
 
+#EXTINF:-1  tvg-id="FOX.(WFXT).Boston,.MA.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-usa.png" group-title="TV",FOX (WFXT) USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium54%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/foxny.png" group-title="TV",FOX (WNYW) USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium768%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="Fox.Business.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-business.png" group-title="TV",Fox Business
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium297%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="Fox.Deportes.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-deportes.png" group-title="TV",FOX Deportes USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium643%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="Fox.News.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-news.png" group-title="TV",Fox News
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium347%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="FOX.Soccer.Plus.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-soccer-plus.png" group-title="TV",FOX Soccer Plus
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium756%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-1-usa.png" group-title="TV",Fox Sports 1 USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium39%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-sports-2-usa.png" group-title="TV",Fox Sports 2 USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium758%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-id="FOXWeather.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-weather-channel.png" group-title="TV",Fox Weather Channel
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium775%2Fmono.m3u8&data=T3JpZ2luPWh0dHA6Ly9kcmV3bGl2ZTI0LmR1Y2tkbnMub3JnfFJlZmVyZXI9aHR0cDovL2RyZXdsaXZlMjQuZHVja2Rucy5vcmcvfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxN183IGxpa2UgTWFjIE9TIFgpIE1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOC4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOC4w
+
+#EXTINF:-1  tvg-name="Zoey Foxx" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="TV" radio="false",Zoey Foxx
+https://cdn.baddiehub.com/ZFxx.mp4
+
+#EXTINF:-1  tvg-name="Zoey Foxx 2" tvg-id="Adult.Section.Dummy.us" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" group-title="TV" radio="false",Zoey Foxx 2
+https://cdn.baddiehub.com/hepfy.mp4
+
+#EXTINF:-1  tvg-name="FOX (WNYW)" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" group-title="TV" radio="false",FOX (WNYW)
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
+
+#EXTINF:-1  tvg-name="FOX Business Network" tvg-id="Fox.Business.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true" group-title="TV" radio="false",FOX Business Network
+http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
+
+#EXTINF:-1  tvg-name="FOX News Channel" tvg-id="Fox.News.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16374_dark_360w_270h.png" group-title="TV" radio="false",FOX News Channel
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/267.m3u8
+
+#EXTINF:-1  tvg-name="FOX SOCCER PLUS" tvg-id="FOX.Soccer.Plus.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Fox_Soccer_Plus_logo.svg/1200px-Fox_Soccer_Plus_logo.svg.png" group-title="TV" radio="false",FOX SOCCER PLUS
+http://cdn1host.online:2999/live/kratorius/opLcbhlXaT/265.m3u8
+
+#EXTINF:-1  tvg-name="FOX SOUL" tvg-id="plex.tv.FOX.SOUL.plex" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-soul-us.png?raw=true" group-title="TV" radio="false",FOX SOUL
+http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
+
+#EXTINF:-1  tvg-name="FS1" tvg-id="Fox.Sports.1.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" group-title="TV" radio="false",FS1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+
+#EXTINF:-1  tvg-name="FS2" tvg-id="Fox.Sports.2.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" group-title="TV" radio="false",FS2
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/264
+
 #EXTINF:-1  tvg-id="10BoldAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/10-bold-drama-au.png" group-title="TV" radio="false",10 Bold Drama
 http://tvhe.neez.id.au/stream/channelid/177421981?profile=pass
 
@@ -135,6 +243,9 @@ http://tvhe.neez.id.au/stream/channelid/1206278726?profile=pass
 
 #EXTINF:-1  tvg-id="9RushAdelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/nine-rush-au.png" group-title="TV" radio="false",9Rush
 http://tvhe.neez.id.au/stream/channelid/1415085761?profile=pass
+
+#EXTINF:-1  tvg-id="FoxSportsMore.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/australia/fox-sports-507-au.png?raw=true" group-title="TV" radio="false",FOX Sport 507
+http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/280194.ts
 
 #EXTINF:-1  tvg-id="10Adelaide.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/network-10-au.png" group-title="TV" radio="false",Network 10
 http://tvhe.neez.id.au/stream/channelid/1703206964?profile=pass
@@ -193,11 +304,191 @@ https://digitalgirl.timstreams.xyz/tnt3gb//index.m3u8
 #EXTINF:-1  tvg-id="TNT.Sports.4.HD.uk" tvg-logo="https://i.ibb.co/Fnbw8VV/TNT-Sports-4.png" group-title="TV" radio="false",UK | TNT Sports 4
 https://digitalgirl.timstreams.xyz/tnt4gb//index.m3u8
 
+#EXTINF:-1  tvg-id="foxbusiness.us" tvg-logo="http://lonewolftvpr.com/logos/foxbusiness.png" group-title="TV" radio="false",Fox Business
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/268
+
+#EXTINF:-1  tvg-id="foxdeportes.us" tvg-logo="http://lonewolftvpr.com/logos/foxdeportes.png" group-title="TV" radio="false",Fox Deportes
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/266
+
+#EXTINF:-1  tvg-id="foxnews.us" tvg-logo="http://lonewolftvpr.com/logos/foxnews.png" group-title="TV" radio="false",Fox News
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/267
+
+#EXTINF:-1  tvg-id="foxsoccerplus.us" tvg-logo="http://lonewolftvpr.com/logos/foxsoccer.png" group-title="TV" radio="false",Fox Soccer Plus
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/265
+
+#EXTINF:-1  tvg-id="andtv.us" tvg-logo="https://i.ibb.co/V0R8nbht/FOX-Racing.png" group-title="TV" radio="false",Fox Sports Racing
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/8430
+
+#EXTINF:-1  tvg-id="Fox.Sports.1.us" tvg-logo="http://lonewolftvpr.com/logos/fs1.png" group-title="TV" radio="false",FS1
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/263
+
+#EXTINF:-1  tvg-name="FWX" tvg-id="5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png" group-title="TV",FOX Weather
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6351b29cb940534786b2ec17.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+
+#EXTINF:-1  tvg-name="LIVENOW" tvg-id="5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695" tvg-logo="https://provider-static.plex.tv/7/epg/channels/logos/gracenote/724a2b5cb46150f051d492f356de5e0f.png" group-title="TV",LiveNOW from FOX
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+
+#EXTINF:-1  tvg-id="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" tvg-logo="https://provider-static.plex.tv/epg/cms/production/b6bea985-9665-4dca-8ce4-2a8f79c7863c/FXSportsWhite.png" group-title="TV",FOX Sports
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+
+#EXTINF:-1  tvg-name="FOX 11 Los Angeles" tvg-id="667f2c7b22acab0008b7072b" tvg-logo="https://images.pluto.tv/channels/667f2c7b22acab0008b7072b/colorLogoPNG.png" tvg-chno="5151" group-title="TV",FOX 11 Los Angeles
+https://jmp2.uk/plu-667f2c7b22acab0008b7072b.m3u8
+
+#EXTINF:-1  tvg-name="FOX Deportes" tvg-id="63d0269d60bc8f000890facc" tvg-logo="https://images.pluto.tv/channels/63d0269d60bc8f000890facc/colorLogoPNG.png" tvg-chno="4550" group-title="TV",FOX Deportes
+https://jmp2.uk/plu-63d0269d60bc8f000890facc.m3u8
+
+#EXTINF:-1  tvg-name="FOX SOUL" tvg-id="60fb2c9c663b130008945ad0" tvg-logo="https://images.pluto.tv/channels/60fb2c9c663b130008945ad0/colorLogoPNG.png" tvg-chno="2105" group-title="TV",FOX SOUL
+https://jmp2.uk/plu-60fb2c9c663b130008945ad0.m3u8
+
+#EXTINF:-1  tvg-name="FOX Sports" tvg-id="5a74b8e1e22a61737979c6bf" tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png" tvg-chno="2790" group-title="TV",FOX Sports
+https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
+
+#EXTINF:-1  tvg-name="FOX Weather" tvg-id="640a68880e884c0009979cc2" tvg-logo="https://images.pluto.tv/channels/640a68880e884c0009979cc2/colorLogoPNG.png" tvg-chno="2619" group-title="TV",FOX Weather
+https://jmp2.uk/plu-640a68880e884c0009979cc2.m3u8
+
+#EXTINF:-1  tvg-name="LiveNOW from FOX" tvg-id="63d025db4e83e700086eaa96" tvg-logo="https://images.pluto.tv/channels/63d025db4e83e700086eaa96/colorLogoPNG.png" tvg-chno="2534" group-title="TV",LiveNOW from FOX
+https://jmp2.uk/plu-63d025db4e83e700086eaa96.m3u8
+
 #EXTINF:-1  tvg-name="Sky Sports Classics" tvg-id="GB2700012HS" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700012HS_20250107T031219SQUARE.png" tvg-chno="4635" group-title="TV",Sky Sports Classics
 https://jmp2.uk/sam-GB2700012HS.m3u8
 
 #EXTINF:-1  tvg-name="Sky Sports Stories" tvg-id="GB2700013Y7" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700013Y7_20250326T013519SQUARE.png" tvg-chno="4420" group-title="TV",Sky Sports Stories
 https://jmp2.uk/sam-GB2700013Y7.m3u8
+
+#EXTINF:-1  tvg-name="FOX 2 San Francisco" tvg-id="USBD2700019N0" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2700019N0_20241112T001641SQUARE.png" tvg-chno="1125" group-title="TV",FOX 2 San Francisco
+https://jmp2.uk/sam-USBD2700019N0.m3u8
+
+#EXTINF:-1  tvg-name="FOX SOUL" tvg-id="USBA300032J7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300032J7_20240520T214534SQUARE.png" tvg-chno="2950" group-title="TV",FOX SOUL
+https://jmp2.uk/sam-USBA300032J7.m3u8
+
+#EXTINF:-1  tvg-name="FOX Sports" tvg-id="US2700001QY" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2700001QY_20241105T024305SQUARE.png" tvg-chno="2334" group-title="TV",FOX Sports
+https://jmp2.uk/sam-US2700001QY.m3u8
+
+#EXTINF:-1  tvg-name="FOX Weather" tvg-id="USBD700003L7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700003L7_20240520T222853SQUARE.png" tvg-chno="1130" group-title="TV",FOX Weather
+https://jmp2.uk/sam-USBD700003L7.m3u8
+
+#EXTINF:-1  tvg-name="LiveNOW from FOX" tvg-id="USBA300024TN" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300024TN_20241031T150121SQUARE.png" tvg-chno="1116" group-title="TV",LiveNOW from FOX
+https://jmp2.uk/sam-USBA300024TN.m3u8
+
+#EXTINF:-1  tvg-name="FOX 11 - WLUK - (Green Bay, WI*)" tvg-id="6519" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351145DklcPHt7Wf-632x395-xCEmkPLl.png" tvg-chno="927" group-title="TV",FOX 11 - WLUK - (Green Bay, WI*)
+https://jmp2.uk/str-6519.m3u8
+
+#EXTINF:-1  tvg-name="Fox 25 - KOKH - (Oklahoma City, OK*)" tvg-id="6511" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/17353510655ywbSea9hO-632x395-T3tmNo1K.png" tvg-chno="923" group-title="TV",Fox 25 - KOKH - (Oklahoma City, OK*)
+https://jmp2.uk/str-6511.m3u8
+
+#EXTINF:-1  tvg-name="Fox 26 - KMPH - (Fresno, CA*)" tvg-id="6515" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351112xiLYWSNX3B-632x395-pgnvHWLn.png" tvg-chno="925" group-title="TV",Fox 26 - KMPH - (Fresno, CA*)
+https://jmp2.uk/str-6515.m3u8
+
+#EXTINF:-1  tvg-name="FOX 45 NEWS - WBFF - (Baltimore, MD*)" tvg-id="6489" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735350870gmiUn4zU2k-632x395-DPxYBp1Y.png" tvg-chno="912" group-title="TV",FOX 45 NEWS - WBFF - (Baltimore, MD*)
+https://jmp2.uk/str-6489.m3u8
+
+#EXTINF:-1  tvg-name="FOX 9 - WTOV - (Steubenville, OH*)" tvg-id="6531" tvg-logo="https://vcz-ktest2-cloud-vodlix-com.b-cdn.net/u/ktest2/files/thumbs/2024/12/28/1735351253ntM1zUqR3r-632x395-j1dMNj5H.png" tvg-chno="933" group-title="TV",FOX 9 - WTOV - (Steubenville, OH*)
+https://jmp2.uk/str-6531.m3u8
+
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="fox-kttv-los-angeles-ca" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", fox-kttv-los-angeles-ca (SD)
+https://v2.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v2a1/mono.m3u8?token=_MxDpvohutIt3rfA790AoQ&expires=1748694592&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+
+#EXTINF:-1 tvg-id="fox-kttv-los-angeles-ca" tvg-name="fox-kttv-los-angeles-ca" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", fox-kttv-los-angeles-ca (HD)
+https://v15.thetvapp.to/hls/fox-kttv-los-angeles-ca/tracks-v1a1/mono.m3u8?token=NI67BSycHtd174M429XQ8A&expires=1748694597&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="WNYWDT1" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", WNYWDT1 (SD)
+https://v15.thetvapp.to/hls/WNYWDT1/tracks-v2a1/mono.m3u8?token=jo43h0GfOxUpKJxwcn9VnA&expires=1748694602&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+
+#EXTINF:-1 tvg-id="fox-wnyw-new-york-ny" tvg-name="WNYWDT1" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true", WNYWDT1 (HD)
+https://v4.thetvapp.to/hls/WNYWDT1/tracks-v1a1/mono.m3u8?token=mkLRv9rLrjYDdfpLzrOGug&expires=1748694606&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+
+#EXTINF:-1 tvg-id="fox-business" tvg-name="FoxBusiness" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true", FoxBusiness (SD)
+https://v3.thetvapp.to/hls/FoxBusiness/tracks-v2a1/mono.m3u8?token=A1HgL29jwxcaOCDHLKZgPg&expires=1748694611&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+
+#EXTINF:-1 tvg-id="fox-business" tvg-name="FoxBusiness" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-business-us.png?raw=true", FoxBusiness (HD)
+https://v3.thetvapp.to/hls/FoxBusiness/tracks-v1a1/mono.m3u8?token=qvlenon7ccP9s4kWFFmHlg&expires=1748694616&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+
+#EXTINF:-1 tvg-id="fox-news" tvg-name="FoxNewsChannel" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true", FoxNewsChannel (SD)
+https://v17.thetvapp.to/hls/FoxNewsChannel/tracks-v2a1/mono.m3u8?token=POUHBX438w7kAv-Nm2luIA&expires=1748694622&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+
+#EXTINF:-1 tvg-id="fox-news" tvg-name="FoxNewsChannel" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-news-us.png?raw=true", FoxNewsChannel (HD)
+https://v17.thetvapp.to/hls/FoxNewsChannel/tracks-v1a1/mono.m3u8?token=Oq7Qrj8zAuBrHt8U8Ov1mw&expires=1748694626&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="FoxSports1" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true", FoxSports1 (SD)
+https://v14.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8?token=Pw74h_ighW0TBEnacCAfAA&expires=1748694631&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="FoxSports1" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true", FoxSports1 (HD)
+https://v14.thetvapp.to/hls/FoxSports1/tracks-v1a1/mono.m3u8?token=ShZ05DioLr0EdK-KDYQi-A&expires=1748694636&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="FoxSports2" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true", FoxSports2 (SD)
+https://v15.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8?token=qKfw-plN8-8EPoe7lK7LxQ&expires=1748694641&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="FoxSports2" group-title="TV" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true", FoxSports2 (HD)
+https://v18.thetvapp.to/hls/FoxSports2/tracks-v1a1/mono.m3u8?token=nTlxElihVuHLzlrlUHFaFQ&expires=1748694646&user_id=akZTRlpIS0lidlNSaDM1VjJ5MlBoOUJLQzNKVU5LMU91NzFYOE9vaw==
+
+#EXTINF:-1  tvg-id="555113" tvg-logo="https://canvas-lb.tubitv.com/opts/kfdKlk93tCKI9w==/0eb089c0-a74d-41dd-9d20-58b99dd39e8f/CHgQeDoFMS4xLjZAAQ==" group-title="TV",FOX 11 Los Angeles
+http://drewlive24.duckdns.org:4042/tubi/watch/555113
+
+#EXTINF:-1  tvg-id="555119" tvg-logo="https://canvas-lb.tubitv.com/opts/yNgjmPf0m6Kr0Q==/293bcf25-0c51-48fe-a73f-be41364b0a8e/CHgQeDoFMS4xLjZAAQ==" group-title="TV",FOX 5 New York
+http://drewlive24.duckdns.org:4042/tubi/watch/555119
+
+#EXTINF:-1  tvg-id="555121" tvg-logo="https://canvas-lb.tubitv.com/opts/_mvMbRBm3_cNlw==/030f186b-cf60-4481-b37a-2d17d42366fa/CHgQeDoFMS4xLjZAAQ==" group-title="TV",FOX 5 Washington DC
+http://drewlive24.duckdns.org:4042/tubi/watch/555121
+
+#EXTINF:-1  tvg-id="613683" tvg-logo="https://canvas-lb.tubitv.com/opts/8pduoFRPUM7bhw==/69e052e9-4264-45cf-93f6-6218f998abc4/CHgQeDoFMS4xLjZAAQ==" group-title="TV",FOX Sports on Tubi
+http://drewlive24.duckdns.org:4042/tubi/watch/613683
+
+#EXTINF:-1  tvg-id="628893" tvg-logo="https://canvas-lb.tubitv.com/opts/DyF3heUTu-BZ7Q==/ac3a8a9b-0068-488b-a5c6-380f373cc446/CHgQeDoFMS4xLjZAAQ==" group-title="TV",FOX Weather
+http://drewlive24.duckdns.org:4042/tubi/watch/628893
+
+#EXTINF:-1  tvg-id="613695" tvg-logo="https://canvas-lb.tubitv.com/opts/y0a6tLgKc7keFw==/c2e45f1a-4b72-41fa-ac6c-4e402ca4d4f6/CHgQeDoFMS4xLjZAAQ==" group-title="TV",Fox Sports Extra
+http://drewlive24.duckdns.org:4042/tubi/watch/613695
+
+#EXTINF:-1  tvg-id="555127" tvg-logo="https://canvas-lb.tubitv.com/opts/115LjBv7EqTLdA==/f71c682e-37f8-4719-aa89-546d1c4c8bfe/CHgQeDoFMS4xLjZAAQ==" group-title="TV",LiveNOW from FOX
+http://drewlive24.duckdns.org:4042/tubi/watch/555127
+
+#EXTINF:-1 group-title="TV" tvg-id="FOX.(WSVN).Miami,.FL.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" tvg-name="FOX (WSVN)",FOX (WSVN)
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW01NC9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 tvg-id="Fox.Business.us" tvg-name="Fox Business" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-business-us.png" group-title="TV",Fox Business
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0yOTcvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FoxCricket.alt.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" tvg-name="Fox Cricket",Fox Cricket
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW0zNjkvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="8486" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/800px-FOX_Deportes_logo.svg.png" tvg-name="FOX Deportes",FOX Deportes
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9kb2trbzFuZXcubmV3a3NvLnJ1L2Rva2tvMS9wcmVtaXVtNjQzL21vbm8ubTN1OA==.m3u8
+
+#EXTINF:-1 tvg-id="Fox.News.us" tvg-name="Fox News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-news-us.png" group-title="TV",Fox News
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zNDcvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FOX.Soccer.Plus.HD.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-soccer-plus-us.png" tvg-name="FOX Soccer Plus",FOX Soccer Plus
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9kZHk2bmV3Lm5ld2tzby5ydS9kZHk2L3ByZW1pdW03NTYvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Fox.Sports.1.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" tvg-name="Fox Sports 1",Fox Sports 1
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW0zOS9tb25vLm0zdTg=.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Fox.Sports.2.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" tvg-name="Fox Sports 2",Fox Sports 2
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NTgvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FoxLeague.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-league-502-au.png?raw=true" tvg-name="FOX Sports 502",FOX Sports 502
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjAvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FoxSports503.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-503-au.png?raw=true" tvg-name="FOX Sports 503",FOX Sports 503
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjEvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FoxFooty.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-footy-504-au.png?raw=true" tvg-name="FOX Sports 504",FOX Sports 504
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW04MjIvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FoxSports505.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-505-au.png" tvg-name="FOX Sports 505",FOX Sports 505
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjMvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FoxSports506.au" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/fox-sports-506-au.png" tvg-name="FOX Sports 506",FOX Sports 506
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjQvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FoxSports507.au" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-507-au.png?raw=true" tvg-name="FOX Sports 507",FOX Sports 507
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly93aW5kbmV3Lm5ld2tzby5ydS93aW5kL3ByZW1pdW04MjUvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="Fox.Weather.(WDCA4).Washington,.DC.us" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5822536e-f8a5-44ea-a82f-a73be1b983e8/fox_weather_horizontal.png" tvg-name="Fox Weather Channel",Fox Weather Channel
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NzUvbW9uby5tM3U4.m3u8
+
+#EXTINF:-1 group-title="TV" tvg-id="FOX.(WNYW).New.York,.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-us.png" tvg-name="FOXNY",FOXNY
+https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly96ZWtvbmV3Lm5ld2tzby5ydS96ZWtvL3ByZW1pdW03NjgvbW9uby5tM3U4.m3u8
 
 #EXTINF:-1 group-title="TV" tvg-id="SkySp.ActionHD.uk" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-action-uk.png" tvg-name="Sky Sports Action",Sky Sports Action
 https://josh9456-myproxy.hf.space/watch/aHR0cHM6Ly9uZnNuZXcubmV3a3NvLnJ1L25mcy9wcmVtaXVtMzcvbW9uby5tM3U4.m3u8
